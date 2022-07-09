@@ -8,3 +8,5 @@ This line is added as a change in the local repository.
 This line added on branch
 
 Again new line
+
+changing when on master branch
