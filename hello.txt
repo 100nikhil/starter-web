@@ -6,3 +6,5 @@ Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo
 This line is added as a change in the local repository.
 
 This line added on branch
+
+Again new line
