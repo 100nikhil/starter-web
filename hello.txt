@@ -10,3 +10,5 @@ This line added on branch
 Again new line
 
 changing when on master branch
+
+Modification of the file is necessary to understand the concept of merge conflict
