@@ -9,6 +9,6 @@ This line added on branch
 
 Again new line
 
-Changing when on master branch, okay!!
+changing when on master branch
 
-Yes changed this line while on master branch
+Modification of the file is necessary to understand the concept of merge conflict
