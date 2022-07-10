@@ -9,4 +9,6 @@ This line added on branch
 
 Again new line
 
-changing when on master branch
+Changing when on master branch, okay!!
+
+Yes changed this line while on master branch
