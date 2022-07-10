@@ -15,3 +15,5 @@ Hey I am learning Git
 This line is added from master
 
 ---- Added this content just for the stashing purpose
+
+Multiple stash example

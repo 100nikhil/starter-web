@@ -1,2 +1,4 @@
 "This is a sample text" 
 Some more text
+
+Working with multiple stashes. Alright?
